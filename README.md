@@ -2,6 +2,8 @@
 
 Folio is a browser-based editor for merging, rearranging, and resizing PDF pages. It processes documents in memory in the current tab. Its production build is a static site with no accounts, upload endpoint, or external runtime services.
 
+[Open Folio in your browser](https://kenneth0516.github.io/folio-pdf-editor/).
+
 ## Run locally
 
 Use Node.js 22.13+ and pnpm 11.
